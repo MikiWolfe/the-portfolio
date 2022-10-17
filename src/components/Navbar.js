@@ -25,7 +25,7 @@ export default function Navbar({ currentPage, handlePageChange }) {
       >
         Contact Me
       </a>
-      <a className="link" href="" 
+      <a className="link" href="https://docs.google.com/document/d/1aGO7XTU-Wce-esx6r0PhH95StUoGH82Ow_VP2UHrYH4/edit?usp=sharing" 
       target="_blank">
       Resume
         
