@@ -36,8 +36,8 @@ a {
 }
 .link:hover {
   padding: 0.75rem;
-  border-right: rgb(2, 2, 85) solid 3px ;
-  border-left: rgb(2, 2, 85) solid 3px ;
+  border-right: rgb(2, 2, 85) solid 3px;
+  border-left: rgb(2, 2, 85) solid 3px;
   box-shadow: 0 5px 15px lightcyan;
 }
 
@@ -137,10 +137,20 @@ a {
 }
 
 .icon:hover {
-  background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet, red);
+  background: linear-gradient(
+    45deg,
+    red,
+    orange,
+    yellow,
+    green,
+    blue,
+    indigo,
+    violet,
+    red
+  );
   color: rgb(2, 2, 85);
-  border-right: rgb(2, 2, 85) solid 3px ;
-  border-left: rgb(2, 2, 85) solid 3px ;
+  border-right: rgb(2, 2, 85) solid 3px;
+  border-left: rgb(2, 2, 85) solid 3px;
   box-shadow: 0 5px 15px lightcyan;
   /* background: linear-gradient(45deg, red, yellow, blue, indigo); */
   color: white;
@@ -153,13 +163,11 @@ a {
   background-color: transparent;
   padding: 0.75rem;
 }
-.workLink:hover{
-  background-image: linear-gradient(to bottom right, rgb(53, 2, 85), rgb(190, 173, 230));
+.workLink:hover {
+  background-color: white;
   color: rgb(2, 2, 85);
-  border-right: rgb(2, 2, 85) solid 3px ;
-  border-left: rgb(2, 2, 85) solid 3px ;
   box-shadow: 0 5px 15px lightcyan;
-  color: aliceblue;
+  padding: 0;
 }
 .card-challenge {
   position: relative;
@@ -243,8 +251,6 @@ a {
   opacity: 1;
 }
 
-
-
 .backImage {
   background-image: url("../images/gasworks.jpg");
   position: relative;
@@ -273,8 +279,7 @@ textarea {
   position: relative;
   width: 500px;
   height: 300px;
-  padding: 0.5% , 0.2%, 0, 0.2%;
-
+  padding: 0.5%, 0.2%, 0, 0.2%;
 }
 .input {
   position: relative;
@@ -293,7 +298,7 @@ textarea {
   font-size: 24px;
   padding: 0.5%;
   color: white;
-  border:rgb(1, 2, 21) solid 2px ;
+  border: rgb(1, 2, 21) solid 2px;
   border-radius: 50%;
   cursor: pointer;
 }
@@ -305,7 +310,7 @@ textarea {
   font-size: 24px;
   padding: 0.5%;
   color: black;
-  border: rgb(95, 31, 31) solid 2px ;
+  border: rgb(95, 31, 31) solid 2px;
   border-radius: 50%;
   cursor: pointer;
 }
@@ -332,15 +337,14 @@ textarea {
   align-items: center;
 }
 
-.contactIcon:hover {  
+.contactIcon:hover {
   padding: 0.3rem;
   text-align: center;
   background: linear-gradient(45deg, red, yellow, blue, indigo);
-color: white;
-border-radius: 50%;
+  color: white;
+  border-radius: 50%;
   border-left: solid rgb(96, 158, 195) 2px;
-   border-right: solid rgb(96, 158, 195) 2px;
-
+  border-right: solid rgb(96, 158, 195) 2px;
 }
 
 @media screen and (max-width: 300px) {
