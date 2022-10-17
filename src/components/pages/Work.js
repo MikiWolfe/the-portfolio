@@ -1,6 +1,7 @@
 import React from "react";
 import "../../styles/style.css";
 import elevatorPitch from "../../images/elevator-pitch.png";
+import willItFit from "../../images/will-it-fit.png"
 import challenge from "../../images/30-days.png";
 import weather from "../../images/weather.jpeg";
 import java from "../../images/java.jpeg";
@@ -18,13 +19,42 @@ export default function Work() {
       </h1>
 
       <div className="work-section">
+            {/* <!-- Will it fit --> */}
+            <div className="card-pad">
+          <div className="card-challenge">
+            <img
+              className="card-img"
+              src={willItFit}
+              alt="Will it fit?"
+            />
+
+            <div className="container">
+              <a
+                className="icon"
+                href="https://github.com/kelseybrianne/will-it-fit"
+                target="_blank"
+              >
+                {<IoLogoGithub />}
+              </a>
+
+              <a
+                className="workLink"
+                href="https://will-it-fit-app.herokuapp.com/"
+                target="_blank"
+              >
+                Will it Fit?
+              </a>
+            </div>
+          </div>
+        </div>
+
         {/* <!-- Elevator Pitch --> */}
         <div className="card-pad">
           <div className="card-challenge">
             <img
               className="card-img"
               src={elevatorPitch}
-              alt="30-day-Challenge"
+              alt="Elevator pitch"
             />
 
             <div className="container">
