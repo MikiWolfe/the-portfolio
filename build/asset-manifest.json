@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/the-portfolio/static/css/main.6d76cbf4.css",
-    "main.js": "/the-portfolio/static/js/main.6579c31e.js",
+    "main.js": "/the-portfolio/static/js/main.4ac0109d.js",
     "static/media/30-days.png": "/the-portfolio/static/media/30-days.4793fd615df6f3475899.png",
+    "static/media/will-it-fit.png": "/the-portfolio/static/media/will-it-fit.5a16d4eb90eb9b2b8c9e.png",
     "static/media/gasworks.jpg": "/the-portfolio/static/media/gasworks.32e0953eaf1f204dc970.jpg",
     "static/media/team-gen.png": "/the-portfolio/static/media/team-gen.8d41efa01118c4dac664.png",
     "static/media/elevator-pitch.png": "/the-portfolio/static/media/elevator-pitch.cef21067c95202ae79cf.png",
     "static/media/java.jpeg": "/the-portfolio/static/media/java.29f5685c3e85d749faa8.jpeg",
+    "static/media/retailData.jpg": "/the-portfolio/static/media/retailData.a0a11c599c6855de41dc.jpg",
     "static/media/weather.jpeg": "/the-portfolio/static/media/weather.630a7fb013e152bef733.jpeg",
     "static/media/manage.png": "/the-portfolio/static/media/manage.f1c34c4bb44330974907.png",
-    "static/media/workday.jpeg": "/the-portfolio/static/media/workday.563ac5978feadfe1b25e.jpeg",
     "static/media/profile2.jpg": "/the-portfolio/static/media/profile2.898c8a3e241f260a4eb7.jpg",
     "static/media/note-taker.png": "/the-portfolio/static/media/note-taker.990ce3044ad49a2e49a8.png",
     "index.html": "/the-portfolio/index.html",
     "main.6d76cbf4.css.map": "/the-portfolio/static/css/main.6d76cbf4.css.map",
-    "main.6579c31e.js.map": "/the-portfolio/static/js/main.6579c31e.js.map"
+    "main.4ac0109d.js.map": "/the-portfolio/static/js/main.4ac0109d.js.map"
   },
   "entrypoints": [
     "static/css/main.6d76cbf4.css",
-    "static/js/main.6579c31e.js"
+    "static/js/main.4ac0109d.js"
   ]
 }

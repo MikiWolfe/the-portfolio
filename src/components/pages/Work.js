@@ -5,7 +5,7 @@ import willItFit from "../../images/will-it-fit.png"
 import challenge from "../../images/30-days.png";
 import weather from "../../images/weather.jpeg";
 import java from "../../images/java.jpeg";
-import workday from "../../images/workday.jpeg";
+import retailData from '../../images/retailData.jpg';
 import noteTaker from "../../images/note-taker.png";
 import team from "../../images/team-gen.png";
 import manage from "../../images/manage.png";
@@ -147,14 +147,14 @@ export default function Work() {
           </div>
         </div>
 
-        {/* <!-- Day planner --> */}
+        {/* <!-- Retailer Database --> */}
         <div className="card-pad">
           <div className="card-planner">
-            <img className="card-img" src={workday} alt="30-day-Challenge" />
+            <img className="card-img" src={retailData} alt="Retail Database" />
             <div className="container">
               <a
                 className="icon"
-                href="https://github.com/MikiWolfe/Calendar"
+                href="https://github.com/MikiWolfe/retail-database"
                 target="_blank"
               >
                 {<IoLogoGithub />}
@@ -162,10 +162,10 @@ export default function Work() {
 
               <a
                 className="workLink"
-                href="https://mikiwolfe.github.io/Calendar/"
+                href="https://retailer-database.herokuapp.com/"
                 target="_blank"
               >
-                Day Planner
+                Retailer Database
               </a>
             </div>
           </div>
@@ -222,7 +222,7 @@ export default function Work() {
             <img
               className="card-img"
               src={manage}
-              alt="Team Profile Generator"
+              alt="Employee Database"
             />
             <div className="container">
             <a
