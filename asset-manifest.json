@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/the-portfolio/static/css/main.24ab0a23.css",
-    "main.js": "/the-portfolio/static/js/main.1d69d1d9.js",
+    "main.css": "/the-portfolio/static/css/main.9029b959.css",
+    "main.js": "/the-portfolio/static/js/main.19fc2ac2.js",
     "static/media/30-days.png": "/the-portfolio/static/media/30-days.4793fd615df6f3475899.png",
     "static/media/will-it-fit.png": "/the-portfolio/static/media/will-it-fit.5a16d4eb90eb9b2b8c9e.png",
     "static/media/gasworks.jpg": "/the-portfolio/static/media/gasworks.32e0953eaf1f204dc970.jpg",
@@ -14,11 +14,11 @@
     "static/media/profile2.jpg": "/the-portfolio/static/media/profile2.898c8a3e241f260a4eb7.jpg",
     "static/media/note-taker.png": "/the-portfolio/static/media/note-taker.990ce3044ad49a2e49a8.png",
     "index.html": "/the-portfolio/index.html",
-    "main.24ab0a23.css.map": "/the-portfolio/static/css/main.24ab0a23.css.map",
-    "main.1d69d1d9.js.map": "/the-portfolio/static/js/main.1d69d1d9.js.map"
+    "main.9029b959.css.map": "/the-portfolio/static/css/main.9029b959.css.map",
+    "main.19fc2ac2.js.map": "/the-portfolio/static/js/main.19fc2ac2.js.map"
   },
   "entrypoints": [
-    "static/css/main.24ab0a23.css",
-    "static/js/main.1d69d1d9.js"
+    "static/css/main.9029b959.css",
+    "static/js/main.19fc2ac2.js"
   ]
 }
